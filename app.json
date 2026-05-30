@@ -19,6 +19,11 @@
     },
     "ios": {
       "bundleIdentifier": "com.yourname.dishsaved"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d0dafcc7-eec8-4a2c-aab5-fe89b87e1e39"
+      }
     }
   }
 }
